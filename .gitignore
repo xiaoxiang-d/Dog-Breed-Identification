@@ -1,0 +1,12 @@
+# 数据集
+data/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 模型权重
+*.pth
+
+# 编辑器本地配置
+.vscode/
